@@ -52,9 +52,9 @@
   &__link {
     color: $blue;
     font-weight: 500;
-    font-size: 18px;
+    font-size: 1.125rem;
     text-decoration: none;
-    line-height: 32px;
+    line-height: 2rem;
     display: inline-flex;
     align-items: center;
     & + & {
@@ -62,7 +62,7 @@
       position: relative;
       &::after {
         content: "";
-        height: 32px;
+        height: 2rem;
         width: 2px;
         background: $ghost;
         display: block;
