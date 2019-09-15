@@ -18,7 +18,7 @@ My personal website built during WTF course 🔥.
 - Progressive web apps
 - NPM Scripts
 
-# built with wtf-gulp-starter
+#built with wtf-gulp-starter
 
 `npm install -g gulp-cli`
 
