@@ -1,12 +1,12 @@
 {
-  "name": "WTF: PWA",
-  "short_name": "WTF: PWA",
+  "name": "Damian Rusiecki - CV",
+  "short_name": "DR - CV",
   "theme_color": "#000000",
   "background_color": "#000000",
   "display": "standalone",
   "orientation": "portrait",
-  "scope": "/wtf-gulp-starter/",
-  "start_url": "/wtf-gulp-starter/",
+  "scope": "/damianrusiecki31.github.io/",
+  "start_url": "/damianrusiecki31.github.io/",
   "icons": [
     {
       "src": "assets/pwa/icons/icon-72x72.png",
